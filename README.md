@@ -1,7 +1,7 @@
 # Jonathon Delemos
 
-PENN Graduate Student – MS in Applied Artificial Intelligence  
-ML/AI Director – Passionate about ethical AI, education, and real-world impact  
+PENN Graduate Student – MS in Applied Artificial Intelligence | BSCS California State University, Sacramento 
+Mathnasium Director – Passionate about ethical AI, education, mathematics, and real-world application of AI  
 Focus Areas: Machine Learning, NLP, Web3, and Computer Graphics  
 
 ---
