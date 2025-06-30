@@ -47,4 +47,4 @@ Stack: Java, JOGL, GLSL
 ---
 
 Contact:  
-[GitHub](https://github.com/jdelemos) | [LinkedIn](https://www.linkedin.com/in/your-username/)
+[GitHub](https://github.com/jdelemos) | [LinkedIn](https://www.linkedin.com/in/jonathon-delemos-04333635a/
