@@ -16,7 +16,7 @@ Stack: LaTeX
 
 ---
 
-### CIS5300 – Applied Machine Learning  
+### CIS5300 – Natural Language Processing
 [View Repository](https://github.com/jdelemos/CIS5300)  
 University of Pennsylvania MSEAI 5300 coursework and applied ML case studies.  
 Topics: Regression, model evaluation, supervised learning pipelines  
