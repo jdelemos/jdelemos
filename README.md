@@ -8,13 +8,6 @@ Focus Areas: Machine Learning, NLP, Web3, and Computer Graphics
 
 ## Featured Projects
 
-### CSC196D – Web3 Project  
-[View Repository](https://github.com/jdelemos/CSC196D)  
-Explores decentralized applications and blockchain smart contracts built with Web3.  
-Stack: HTML, JavaScript, Ethereum, Solidity
-
----
-
 ### CIS5210 – Fundamentals of AI  
 [View Repository](https://github.com/jdelemos/CIS5210)  
 University of Pennsylvania MSEAI 5210 course materials and solutions.  
@@ -28,6 +21,13 @@ Stack: LaTeX
 University of Pennsylvania MSEAI 5300 coursework and applied ML case studies.  
 Topics: Regression, model evaluation, supervised learning pipelines  
 Stack: Python, LaTeX
+
+---
+
+### CSC196D – Web3 Project  
+[View Repository](https://github.com/jdelemos/CSC196D)  
+Explores decentralized applications and blockchain smart contracts built with Web3.  
+Stack: HTML, JavaScript, Ethereum, Solidity
 
 ---
 
@@ -47,4 +47,4 @@ Stack: Java, JOGL, GLSL
 ---
 
 Contact:  
-[GitHub](https://github.com/jdelemos) | [LinkedIn](https://www.linkedin.com/in/jonathon-delemos-04333635a/
+[GitHub](https://github.com/jdelemos) | [LinkedIn](https://www.linkedin.com/in/jonathon-delemos-04333635a)
