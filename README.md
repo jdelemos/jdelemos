@@ -24,10 +24,10 @@ Stack: Python, LaTeX
 
 ---
 
-### CSC196D – Web3 Project  
-[View Repository](https://github.com/jdelemos/CSC196D)  
-Explores decentralized applications and blockchain smart contracts built with Web3.  
-Stack: HTML, JavaScript, Ethereum, Solidity
+### Machine Learning – Small Object Detection  
+[View Repository](https://github.com/jdelemos/MLProjects)  
+Explores computer vision, pyautogui, roboflow, and YOLOv8.   
+Stack: Python, Roboflow
 
 ---
 
