@@ -29,6 +29,8 @@ Stack: Python, LaTeX
 Explores computer vision, pyautogui, roboflow, and YOLOv8.   
 Stack: Python, Roboflow
 
+<img src="https://github.com/jdelemos/MLProjects/blob/main/training_data/training_1.jpeg" alt="Initial spread">
+
 ---
 
 ### CSc155 – 3D Graphics and Shader Programming  
