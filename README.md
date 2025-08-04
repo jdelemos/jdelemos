@@ -6,7 +6,7 @@ Focus Areas: Machine Learning, NLP, Web3, and Computer Graphics
 
 ---
 
-## Featured Projects
+## Featured Projects/Classes 
 
 ### CIS5210 – Fundamentals of AI  
 [View Repository](https://github.com/jdelemos/CIS5210)  
