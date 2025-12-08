@@ -33,10 +33,10 @@ Stack: Python, Roboflow
 
 ---
 
-### CSc155 – 3D Graphics and Shader Programming  
-[View Repository](https://github.com/jdelemos/CSc155)  
-CSUS course project on modern OpenGL rendering, shaders, and graphics pipeline.  
-Stack: Java, JOGL, GLSL
+### ESE5410 - Machine Learning for Data Science
+[View Repository](https://github.com/jdelemos/ESE5410)  
+Penn course project on statistical modeling of large datasets, limits of statistics, learning techniques.  
+Stack: Python
 
 ---
 
