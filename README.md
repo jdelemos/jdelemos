@@ -1,6 +1,6 @@
 # Jonathon Delemos
 
-PENN Graduate Student – MS in Applied Artificial Intelligence | BSCS California State University, Sacramento 
+PENN Graduate Student – MS in Engineering in Artificial Intelligence | BSCS California State University, Sacramento 
 Mathnasium Director – Passionate about ethical AI, education, mathematics, and real-world application of AI  
 Software Engineer - Riley Consulting to assist with RFI and Artificial Intelligence related tasks. 
 Focus Areas: Machine Learning, NLP, Web3, and Computer Graphics  
