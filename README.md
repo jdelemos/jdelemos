@@ -29,7 +29,7 @@ Stack: Python, LaTeX
 [View Repository](https://github.com/jdelemos/MLProjects)  
 Explores computer vision, pyautogui, roboflow, and YOLOv8.   
 Stack: Python, Roboflow\
-Fully autonomous agent that can identify targets, move, and attack prey. No supervision needed. I collected a clean dataset, trained the model, and successfully deployed it. 
+Fully autonomous agent that can identify targets, move, and attack prey. No supervision needed. I created dataset, modified the weights, trained the model, and successfully deployed it. 
 This model is capable of running indefinitely. 
 
 <img src="https://github.com/jdelemos/MLProjects/blob/main/training_data/training_1.jpeg" alt="Initial spread">
