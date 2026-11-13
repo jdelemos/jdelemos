@@ -28,7 +28,7 @@ Stack: Python, LaTeX
 ### Machine Learning – Small Object Detection  
 [View Repository](https://github.com/jdelemos/MLProjects)  
 Explores computer vision, pyautogui, roboflow, and YOLOv8.   
-Stack: Python, Roboflow
+Stack: Python, Roboflow\
 Fully autonomous agent that can identify targets, move, and attack prey. No supervision needed. 
 
 <img src="https://github.com/jdelemos/MLProjects/blob/main/training_data/training_1.jpeg" alt="Initial spread">
